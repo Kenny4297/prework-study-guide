@@ -2,13 +2,6 @@
 
 ## This project will be used to review the material I have learned in Prework Camp
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 This project is a blueprint for any study materials I have learned during Prework Camp. Discipline built this project, not motivation, since motivation is not a good strategy for success. It solves the problem of scattered notes and puts them all in one place for easy review. 
 
 I learned a few things while building this project. I had never used and pushed a branch (other than 'master') to github, and it was a struggle learning the minute differences between pushing the master and pushing a branch to GitHub.
